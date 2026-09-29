@@ -459,29 +459,29 @@ const styles = StyleSheet.create({
     },
 
     letter: {
-        fontSize: 96,
-        lineHeight: 108,
+        fontSize: 140,
+        lineHeight: 150,
         fontWeight: '900',
         color: COLORS.primary,
         marginTop: 4,
     },
 
     illustrationContainer: {
-        width: 130,
-        height: 130,
-        borderRadius: 40,
+        width: 120,
+        height: 120,
+        borderRadius: 36,
 
         backgroundColor: COLORS.primaryLight,
 
         alignItems: 'center',
         justifyContent: 'center',
 
-        marginTop: 8,
-        marginBottom: 18,
+        marginTop: 4,
+        marginBottom: 14,
     },
 
     illustration: {
-        fontSize: 68,
+        fontSize: 62,
     },
 
     word: {
